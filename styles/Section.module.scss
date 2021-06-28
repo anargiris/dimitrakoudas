@@ -1,0 +1,94 @@
+.quote {
+  display: inline-block;
+  margin: 1em;
+  margin-top: 2em;
+  max-width: 20em;
+  overflow: hidden;
+  blockquote {
+    background-color: #fff;
+    border: solid 2px #ff9f1c;
+    display: inline-block;
+    margin: 0;
+    padding: 1em;
+    position: relative;
+    &:before {
+      animation: clockwise 30s infinite linear;
+      background-color: #fff;
+      bottom: 10%;
+      content: "";
+      left: 0;
+      opacity: 0.5;
+      position: absolute;
+      right: 0;
+      top: 10%;
+    }
+    &:after {
+      animation: counter 30s infinite linear;
+      background-color: #fff;
+      bottom: 10%;
+      content: "";
+      left: 0;
+      opacity: 0.5;
+      position: absolute;
+      right: 0;
+      top: 10%;
+    }
+    cite {
+      display: block;
+      font-style: italic;
+      text-align: right;
+      &:before {
+        content: "- ";
+      }
+    }
+    > * {
+      position: relative;
+      z-index: 1;
+    }
+  }
+}
+
+@keyframes clockwise {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes counter {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(-360deg);
+  }
+}
+
+.line {
+  position: relative;
+  max-width: 500px;
+  margin: auto;
+}
+.line:before {
+  content: "";
+  display: block;
+  width: 200px;
+  height: 2px;
+  background: #545454;
+  left: 0;
+  top: 50%;
+  position: absolute;
+}
+
+.line:after {
+  content: "";
+  display: block;
+  width: 200px;
+  height: 2px;
+  background: #545454;
+  right: 0;
+  top: 50%;
+  position: absolute;
+}

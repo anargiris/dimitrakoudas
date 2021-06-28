@@ -1,0 +1,16 @@
+.heroImage {
+  background: url("/mainbg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity: 0.9;
+}
+
+.title {
+  margin: 0px auto;
+  color: #cbf3f0;
+  letter-spacing: 5px;
+
+  text-shadow: -1px -1px 0px #000, 2px 2px 0px #000;
+}
