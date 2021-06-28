@@ -62,14 +62,12 @@ const contact = () => {
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d602.3954676015894!2d23.871867829188844!3d40.39368402010909!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDIzJzM3LjMiTiAyM8KwNTInMjAuNyJF!5e1!3m2!1sen!2sgr!4v1624895033049!5m2!1sen!2sgr"
           width="600"
           height="450"
-          allowfullscreen=""
           loading="lazy"
         ></iframe>
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d602.3393103626724!2d23.872093829188845!3d40.39996102001381!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDIzJzU5LjkiTiAyM8KwNTInMjEuNSJF!5e1!3m2!1sen!2sgr!4v1624895089805!5m2!1sen!2sgr"
           width="600"
           height="450"
-          allowfullscreen=""
           loading="lazy"
         ></iframe>
       </section>
