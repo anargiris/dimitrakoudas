@@ -32,7 +32,7 @@ const photos = () => {
           property="og:description"
           content="Φωτογραφίες από τις εργασίες μας. Αφοί Δημητρακούδα, Ιερισσός Χαλκιδικής. Οικοδομικές εργασίες σε όλο το τρίτο πόδι Χαλκιδικής."
         />
-        <meta property="og:image" />
+        <meta property="og:image" content="/mainbg.jpg" />
       </Head>
       <header className="font-manrope">
         <Navbar />

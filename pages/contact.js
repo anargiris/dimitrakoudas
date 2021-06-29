@@ -91,6 +91,13 @@ const contact = () => {
           loading="lazy"
         ></iframe>
       </section>
+      <section className="h-96 ">
+        <h5 className="p-20 text-center text-xl text-gray-800 font-manrope">
+          Οικοδομικές εργασίες, περιφράξεις, πέργκολες, εργασίες με μπετόν,
+          ανεγέρσεις οικοδομών, Ιερισσός Χαλκιδικής, Νέα Ρόδα, Ουρανούπολη,
+          Στρατώνι, Άγιο Όρος, Γομάτι, τρίτο πόδι Χαλκιδικής.
+        </h5>
+      </section>
       <Footer />
     </>
   );
