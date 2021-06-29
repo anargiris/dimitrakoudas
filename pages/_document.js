@@ -16,16 +16,15 @@ class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Manrope&display=swap"
             rel="stylesheet"
           />
-
+          <meta property="og:locale" content="el_GR" />
           <link rel="icon" href="/favicon.ico" />
           <meta name="robots" content="index, follow" />
-
+          <meta
+            property="og:site_name"
+            content="Οικοδομικές εργασίες Αφοί Δημητρακούδα"
+          />
           <meta name="theme-color" content="#ff9f1c" />
           <meta property="og:type" content="website" />
-          <meta
-            name="viewport"
-            content="width=device-width,initial-scale=1.0"
-          ></meta>
         </Head>
         <body>
           <Main />

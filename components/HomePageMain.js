@@ -16,26 +16,28 @@ const HomePageMain = () => {
               className="relative z-10"
             />
           </div>
-          <p className="text-lg text-gray-900">
-            <span className="text-yellow-main text-2xl font-bold">Ε</span>ίμαστε
-            οικογενειακή επιχείρηση από την Ιερισσό Χαλκιδικής. Από το 1984
-            κάνουμε εμπειροτεχνικές οικοδομικές εργασίες στο τρίτο πόδι
+          <p className="text-lg 2xl:text-2xl text-gray-900">
+            <span className="text-yellow-main 2xl:text-4xl text-2xl font-bold">
+              Ε
+            </span>
+            ίμαστε οικογενειακή επιχείρηση από την Ιερισσό Χαλκιδικής. Από το
+            1984 κάνουμε εμπειροτεχνικές οικοδομικές εργασίες στο τρίτο πόδι
             Χαλκιδικής.
           </p>
-          <p className="mt-2 text-lg text-gray-800">
+          <p className="mt-2 2xl:text-2xl text-lg text-gray-800">
             Αναλαμβάνουμε απο σκεπές και πέργκολες μεχρι ανεγέρσεις οικοδομών.
             Κάνουμε εργασίες με μπετόν καθώς και καλούπια για εμφανή μπετά.
             Φτιάχνουμε πισίνες και περιφράξεις.
           </p>
           <div className={` ${styles.quote}`}>
             <blockquote>
-              <p className="text-xl font-semibold text-gray-800 p-2">
+              <p className="text-xl 2xl:text-3xl font-semibold text-gray-800 p-2">
                 Η συνέπεια και η πολυετής εμπειρία μας είναι η εγγύηση μας προς
                 τους πελάτες μας.
               </p>
             </blockquote>
           </div>
-          <p className="mt-8 text-gray-800">
+          <p className="mt-8 2xl:text-xl text-gray-800">
             Εργαζόμαστε κατόπιν συνεννόησης. Αν έχετε ερωτήσεις ή θελετε να
             συνεργαστούμε, επικοινωνήστε μαζί μας{" "}
             <Link href="/contact">

@@ -34,8 +34,8 @@ const contact = () => {
       <header className="font-manrope">
         <Navbar />
       </header>
-      <main className="flex md:flex-row flex-col-reverse text-center md:text-base max-w-5xl mt-5 mx-auto justify-between font-manrope">
-        <div className="md:w-1/2 md:mt-0 mt-10">
+      <main className="flex md:flex-row flex-col text-center md:text-base max-w-5xl mt-5 mx-auto justify-between font-manrope">
+        <div className="md:w-1/2 ">
           <h1 className="text-3xl font-bold text-yellow-main">
             Οικοδομικές εργασίες - Επικοινωνία
           </h1>
@@ -48,25 +48,45 @@ const contact = () => {
           </p>
         </div>
         <div className="flex flex-col gap-5 text-xl mt-4">
-          <p className="text-gray-900">Mail:</p>
+          <p className="text-gray-900">
+            <span className="text-yellow-main font-bold">Mail:</span>
+            <br />
+            <a href="mailto:afoidimitrakouda@gmail.com">
+              afoidimitrakouda@gmail.com
+            </a>
+          </p>
           <p className="text-gray-800">
-            Τηλέφωνα:
+            <span className="text-yellow-main font-bold">Τηλέφωνα:</span>
             <br />
             6972 292 141, 6946 463 124
           </p>
           <p className="text-gray-700">Ιερισσός Χαλκιδικής.</p>
         </div>
       </main>
-      <section className="mt-10 flex items-center justify-around">
+      <section className="mt-10 md:flex hidden  md:flex-row flex-col items-center justify-around">
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d602.3954676015894!2d23.871867829188844!3d40.39368402010909!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDIzJzM3LjMiTiAyM8KwNTInMjAuNyJF!5e1!3m2!1sen!2sgr!4v1624895033049!5m2!1sen!2sgr"
-          width="600"
+          width="50%"
           height="450"
           loading="lazy"
         ></iframe>
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d602.3393103626724!2d23.872093829188845!3d40.39996102001381!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDIzJzU5LjkiTiAyM8KwNTInMjEuNSJF!5e1!3m2!1sen!2sgr!4v1624895089805!5m2!1sen!2sgr"
-          width="600"
+          width="50%"
+          height="450"
+          loading="lazy"
+        ></iframe>
+      </section>
+      <section className="mt-10 md:hidden flex md:flex-row flex-col items-center justify-around">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d602.3954676015894!2d23.871867829188844!3d40.39368402010909!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDIzJzM3LjMiTiAyM8KwNTInMjAuNyJF!5e1!3m2!1sen!2sgr!4v1624895033049!5m2!1sen!2sgr"
+          width="100%"
+          height="450"
+          loading="lazy"
+        ></iframe>
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d602.3393103626724!2d23.872093829188845!3d40.39996102001381!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDIzJzU5LjkiTiAyM8KwNTInMjEuNSJF!5e1!3m2!1sen!2sgr!4v1624895089805!5m2!1sen!2sgr"
+          width="100%"
           height="450"
           loading="lazy"
         ></iframe>

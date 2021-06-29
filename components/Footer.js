@@ -69,8 +69,8 @@ const Footer = () => {
               ></path>
             </svg>
             <p>
-              <a href="mailto:ksiliaefthimiou@hotmail.com">
-                ksiliaefthimiou@hotmail.com
+              <a href="mailto:afoidimitrakouda@gmail.com">
+                afoidimitrakouda@gmail.com
               </a>
             </p>
           </div>
