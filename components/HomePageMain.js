@@ -14,6 +14,7 @@ const HomePageMain = () => {
               width={75}
               height={75}
               className="relative z-10"
+              alt="Header icon"
             />
           </div>
           <p className="text-lg 2xl:text-2xl text-gray-900">
@@ -128,7 +129,12 @@ const HomePageMain = () => {
           </button>
         </Link>
         <div className="absolute md:block hidden right-0 bottom-0">
-          <Image src="/svg/building.svg" height={350} width={350} />
+          <Image
+            src="/svg/building.svg"
+            height={350}
+            width={350}
+            alt="building SVG"
+          />
         </div>
       </section>
     </main>

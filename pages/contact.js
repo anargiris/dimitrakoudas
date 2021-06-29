@@ -69,12 +69,14 @@ const contact = () => {
           width="50%"
           height="450"
           loading="lazy"
+          title="Google maps 1"
         ></iframe>
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d602.3393103626724!2d23.872093829188845!3d40.39996102001381!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDIzJzU5LjkiTiAyM8KwNTInMjEuNSJF!5e1!3m2!1sen!2sgr!4v1624895089805!5m2!1sen!2sgr"
           width="50%"
           height="450"
           loading="lazy"
+          title="Google maps 2"
         ></iframe>
       </section>
       <section className="mt-10 md:hidden flex md:flex-row flex-col items-center justify-around">
@@ -83,20 +85,22 @@ const contact = () => {
           width="100%"
           height="450"
           loading="lazy"
+          title="Google maps 1"
         ></iframe>
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d602.3393103626724!2d23.872093829188845!3d40.39996102001381!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDIzJzU5LjkiTiAyM8KwNTInMjEuNSJF!5e1!3m2!1sen!2sgr!4v1624895089805!5m2!1sen!2sgr"
           width="100%"
           height="450"
           loading="lazy"
+          title="Google maps 2"
         ></iframe>
       </section>
       <section className="h-96 ">
-        <h5 className="p-20 text-center text-xl text-gray-800 font-manrope">
+        <h2 className="p-20 text-center text-xl text-gray-800 font-manrope">
           Οικοδομικές εργασίες, περιφράξεις, πέργκολες, εργασίες με μπετόν,
           ανεγέρσεις οικοδομών, Ιερισσός Χαλκιδικής, Νέα Ρόδα, Ουρανούπολη,
           Στρατώνι, Άγιο Όρος, Γομάτι, τρίτο πόδι Χαλκιδικής.
-        </h5>
+        </h2>
       </section>
       <Footer />
     </>
