@@ -58,8 +58,8 @@ const HomePageMain = () => {
           />
         </div>
       </section>
-      <section className="min-h-screen border-t border-gray-300 font-manrope pt-5">
-        <h4 className="text-center text-xl font-bold text-gray-800">
+      <section className="min-h-screen border-t border-gray-300 font-manrope pt-8">
+        <h4 className="text-center text-2xl 2xl:text-3xl font-bold text-gray-800">
           Οικοδομικές εργασίες, περιφράξεις και άλλες φωτογραφίες από δουλειές
           που έχουμε κάνει.
         </h4>

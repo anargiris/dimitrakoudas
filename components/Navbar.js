@@ -5,7 +5,7 @@ import styles from "../styles/Navbar.module.css";
 const Navbar = () => {
   return (
     <nav className="flex gap-3 p-2 justify-end text-gray-900">
-      <ul>
+      <ul className="flex gap-4">
         <li>
           <Link href="/">
             <a className={styles.underline}>Αρχική</a>
