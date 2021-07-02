@@ -37,7 +37,7 @@ const photos = () => {
       <header className="font-manrope">
         <Navbar />
         <h1 className="text-2xl text-center font-bold text-gray-800">
-          Οικοδομικές εργασίες Αφοί Δημητρακούδα.
+          Οικοδομικές κατασκευές Αφοί Δημητρακούδα.
         </h1>
         <h2 className="text-xl text-center mt-2 text-gray-700">
           Φωτογραφίες από τις εργασίες μας.
