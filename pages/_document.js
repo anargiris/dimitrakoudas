@@ -22,7 +22,6 @@ class MyDocument extends Document {
           />
           <meta property="og:locale" content="el_GR" />
           <link rel="icon" href="/favicon.ico" />
-          <meta name="robots" content="index, follow" />
           <meta
             property="og:site_name"
             content="Οικοδομικές εργασίες Αφοί Δημητρακούδα"

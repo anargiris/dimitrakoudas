@@ -14,6 +14,9 @@ export default function Home() {
           name="google-site-verification"
           content="dIm_zFMudjHjPr2VUdGnlljx1MWI2v5bq2gCDz5o50c"
         />
+
+        <meta name="robots" content="index, follow" />
+        <link rel="canonical" href="https://www.dimitrakoudas.gr" />
         <meta
           name="title"
           content="Oικοδομικές κατασκευές | Αφοί Δημητρακούδα | Ιερισσός
