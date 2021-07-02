@@ -17,8 +17,7 @@ const HomepageHeader = () => {
       <div className="flex max-w-2xl mx-auto mt-10 justify-between">
         <h3 className="text-indigo-secondary text-xl">
           -Ανέγερση οικοδομής <br />
-          -Εργασίες με μπετό <br /> -Σκεπές <br /> -Πέργκολες <br /> -Εμφανή
-          μπετά <br /> -Περιφράξεις
+          -Σκεπές <br /> -Πέργκολες <br /> -Περιφράξεις
         </h3>
         <p className="italic text-2xl text-yellow-secondary ">Από το 1984. </p>
       </div>

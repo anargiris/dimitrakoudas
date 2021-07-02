@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "../components/Navbar";
 import Head from "next/head";
+import Link from "next/link";
 import Footer from "../components/Footer";
 
 const contact = () => {
@@ -95,12 +96,21 @@ const contact = () => {
           title="Google maps 2"
         ></iframe>
       </section>
-      <section className="h-96 ">
+      <section className="h-96">
         <h2 className="p-20 text-center text-xl text-gray-800 font-manrope">
           Οικοδομικές εργασίες, περιφράξεις, πέργκολες, εργασίες με μπετόν,
           ανεγέρσεις οικοδομών, Ιερισσός Χαλκιδικής, Νέα Ρόδα, Ουρανούπολη,
           Στρατώνι, Άγιο Όρος, Γομάτι, τρίτο πόδι Χαλκιδικής.
         </h2>
+        <p className="text-gray-700 text-center">
+          Για επεξεργασία ξύλου καστανιάς δείτε{" "}
+          <Link href="https://ksiliaefthimiou.gr">
+            <a rel="noreferrer">
+              <span className="font-bold text-black">έδω</span>
+            </a>
+          </Link>
+          .
+        </p>
       </section>
       <Footer />
     </>
