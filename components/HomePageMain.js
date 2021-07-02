@@ -6,7 +6,7 @@ import Link from "next/link";
 const HomePageMain = () => {
   return (
     <main>
-      <section className="h-screen md:flex-row flex-col flex justify-between font-manrope relative">
+      <section className="min-h-screen md:flex-row flex-col flex justify-between font-manrope relative">
         <div className="p-4 md:w-2/3 flex-2">
           <div className={`${styles.line} flex items-center justify-center`}>
             <Image

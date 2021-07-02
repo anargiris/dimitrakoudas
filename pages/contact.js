@@ -20,7 +20,7 @@ const contact = () => {
           name="description"
           content="Οικοδομικές κατασκευές και εργασίες με βάση την Ιερισσό Χαλκιδικής. Ανέγερση οικοδομής, σκεπές, πέργκολες, περιφράξεις και άλλα."
         />
-        <meta property="og:url" content="https://metatags.io/" />
+        <meta property="og:url" content="https://dimitrakoudas.gr/contact" />
         <meta
           property="og:title"
           content="Oικοδομικές κατασκευές | Αφοί Δημητρακούδα | Ιερισσός
@@ -32,7 +32,7 @@ const contact = () => {
         />
         <meta property="og:image" />
 
-        <link rel="canonical" href="https://www.dimitrakoudas.gr/contact" />
+        <link rel="canonical" href="https://dimitrakoudas.gr/contact" />
 
         <meta name="robots" content="index, follow" />
       </Head>

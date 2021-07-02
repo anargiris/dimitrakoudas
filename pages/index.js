@@ -32,7 +32,7 @@ export default function Home() {
           }}
         />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://www.dimitrakoudas.gr" />
+        <link rel="canonical" href="https://dimitrakoudas.gr" />
         <meta
           name="title"
           content="Oικοδομικές κατασκευές | Αφοί Δημητρακούδα | Ιερισσός
@@ -42,7 +42,7 @@ export default function Home() {
           name="description"
           content="Οικοδομικές κατασκευές και εργασίες με βάση την Ιερισσό Χαλκιδικής. Ανέγερση οικοδομής, σκεπές, πέργκολες, περιφράξεις και άλλα."
         />
-        <meta property="og:url" content="https://metatags.io/" />
+        <meta property="og:url" content="https://dimitrakoudas.gr" />
         <meta
           property="og:title"
           content="Oικοδομικές κατασκευές | Αφοί Δημητρακούδα | Ιερισσός
