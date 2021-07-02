@@ -52,7 +52,10 @@ export default function Home() {
           property="og:description"
           content="Οικοδομικές κατασκευές και εργασίες με βάση την Ιερισσό Χαλκιδικής. Ανέγερση οικοδομής, σκεπές, πέργκολες, περιφράξεις και άλλα."
         />
-        <meta property="og:image" />
+        <meta
+          property="og:image"
+          content="https://dimitrakoudas.gr/public/mainbg.jpg"
+        />
       </Head>
       <HomepageHeader />
       <HomePageMain />
