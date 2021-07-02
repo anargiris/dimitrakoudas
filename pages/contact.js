@@ -38,7 +38,7 @@ const contact = () => {
       <main className="flex md:flex-row flex-col text-center md:text-base max-w-5xl mt-5 mx-auto justify-between font-manrope">
         <div className="md:w-1/2 ">
           <h1 className="text-3xl font-bold text-yellow-main">
-            Οικοδομικές εργασίες - Επικοινωνία
+            Οικοδομικές εργασίες Αφοί Δημητρακούδα - Επικοινωνία
           </h1>
           <p className="mt-4 text-xl text-gray-900">
             Επικοινωνήστε μαζί μας. Κάνουμε οικοδομικές εργασίες σε όλο το τρίτο
@@ -100,9 +100,9 @@ const contact = () => {
         <h2 className="p-20 text-center text-xl text-gray-800 font-manrope">
           Οικοδομικές εργασίες, περιφράξεις, πέργκολες, εργασίες με μπετόν,
           ανεγέρσεις οικοδομών, Ιερισσός Χαλκιδικής, Νέα Ρόδα, Ουρανούπολη,
-          Στρατώνι, Άγιο Όρος, Γομάτι, τρίτο πόδι Χαλκιδικής.
+          Στρατώνι, Άγιο Όρος, Γομάτι, τρίτο πόδι Χαλκιδικής. Αφοί Δημητρακούδα.
         </h2>
-        <p className="text-gray-700 text-center">
+        <p className="text-gray-700 text-center font-manrope">
           Για επεξεργασία ξύλου καστανιάς δείτε{" "}
           <Link href="https://ksiliaefthimiou.gr">
             <a rel="noreferrer">

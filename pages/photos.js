@@ -37,9 +37,14 @@ const photos = () => {
       <header className="font-manrope">
         <Navbar />
         <h1 className="text-2xl text-center font-bold text-gray-800">
-          Φωτογραφίες από τις εργασίες μας.
+          Οικοδομικές εργασίες Αφοί Δημητρακούδα.
         </h1>
-        <p className="text-lg text-center my-2">Κάντε click για zoom.</p>
+        <h2 className="text-xl text-center mt-2 text-gray-700">
+          Φωτογραφίες από τις εργασίες μας.
+        </h2>
+        <p className="text-lg text-center my-2 text-gray-800">
+          Κάντε click για zoom.
+        </p>
       </header>
       <main className="flex mb-2 flex-wrap gap-2 max-w-5xl mx-auto font-manrope items-center justify-center">
         <Zoom>
