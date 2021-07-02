@@ -11,6 +11,10 @@ export default function Home() {
           Oικοδομικές κατασκευές | Αφοί Δημητρακούδα | Ιερισσός Χαλκιδικής
         </title>
         <meta
+          name="google-site-verification"
+          content="dIm_zFMudjHjPr2VUdGnlljx1MWI2v5bq2gCDz5o50c"
+        />
+        <meta
           name="title"
           content="Oικοδομικές κατασκευές | Αφοί Δημητρακούδα | Ιερισσός
           Χαλκιδικής"
