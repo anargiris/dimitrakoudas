@@ -14,7 +14,7 @@ const contact = () => {
         <meta
           name="title"
           content="
-          Oικοδομικές κατασκευές | Αφοί Δημητρακούδα | Στοιχεία Επικοινωνίας"
+          Oικοδομικές κατασκευές Δημητρακούδα | Στοιχεία Επικοινωνίας"
         />
         <meta
           name="description"
@@ -23,8 +23,7 @@ const contact = () => {
         <meta property="og:url" content="https://dimitrakoudas.gr/contact" />
         <meta
           property="og:title"
-          content="Oικοδομικές κατασκευές | Αφοί Δημητρακούδα | Ιερισσός
-      Χαλκιδικής"
+          content="Oικοδομικές κατασκευές Δημητρακούδα | Στοιχεία Επικοινωνίας"
         />
         <meta
           property="og:description"

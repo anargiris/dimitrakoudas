@@ -24,7 +24,7 @@ class MyDocument extends Document {
           <link rel="icon" href="/favicon.ico" />
           <meta
             property="og:site_name"
-            content="Οικοδομικές εργασίες Αφοί Δημητρακούδα"
+            content="Οικοδομικές κατασκευές και εργασίες Αφοί Δημητρακούδα"
           />
           <meta name="theme-color" content="#ff9f1c" />
           <meta property="og:type" content="website" />

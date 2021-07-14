@@ -15,8 +15,7 @@ const photos = () => {
         </title>
         <meta
           name="title"
-          content="Oικοδομικές κατασκευές | Αφοί Δημητρακούδα | Ιερισσός
-      Χαλκιδικής | Photos"
+          content="Φωτογραφίες εργασιών - Οικοδομικές κατασκευές Δημητρακούδα"
         />
 
         <link rel="canonical" href="https://dimitrakoudas.gr/photos" />
@@ -27,8 +26,7 @@ const photos = () => {
         <meta property="og:url" content="https://dimitrakoudas.gr/photos" />
         <meta
           property="og:title"
-          content="Oικοδομικές κατασκευές | Αφοί Δημητρακούδα | Ιερισσός
-      Χαλκιδικής"
+          content="Φωτογραφίες εργασιών - Οικοδομικές κατασκευές Δημητρακούδα"
         />
         <meta
           property="og:description"
