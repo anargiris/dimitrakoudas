@@ -106,15 +106,16 @@ const contact = () => {
           Ρόδα, Ουρανούπολη, Στρατώνι, Άγιο Όρος, Γομάτι, τρίτο πόδι Χαλκιδικής.
           Αφοί Δημητρακούδα.
         </h2>
-        <p className="text-gray-700 text-center font-manrope">
-          Για επεξεργασία ξύλου καστανιάς δείτε{" "}
-          <Link href="https://ksiliaefthimiou.gr">
-            <a rel="noreferrer">
-              <span className="font-bold text-black">έδω</span>
-            </a>
-          </Link>
-          .
+        <p className="text-gray-700 font-bold text-center font-manrope mb-2">
+          Χρήσιμα links:
         </p>
+        <Link href="https://ksiliaefthimiou.gr">
+          <a rel="noreferrer">
+            <div className=" text-center font-manrope text-green-800">
+              Ξυλεία καστανιας.
+            </div>
+          </a>
+        </Link>
       </section>
       <Footer />
     </>
