@@ -90,7 +90,7 @@ const Footer = () => {
       <div className="md:absolute md:p-0 p-5 md:right-0 md:left-auto left-0 bottom-0  md:mr-20 ">
         <p> &copy; Copyright 2021, Οικοδομικές κατασκευές Αφοί Δημητρακούδα</p>
         <p className="text-xs">
-          Developed by
+          Developed by{" "}
           <Link href="https://stylidis.io">
             <span className="cursor-pointer hover:text-yellow-500 transition duration-200">
               Anargyros Stylidis
