@@ -148,6 +148,213 @@ const photos = () => {
             alt="Constructions Image 11"
           />
         </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/12.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 12"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/13.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 13"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/14.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 14"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/15.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 15"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/16.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 16"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/17.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 17"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/18.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 18"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/19.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 19"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/20.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 20"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/21.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 21"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/22.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 22"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/23.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 23"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/24.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 24"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/25.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 25"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/26.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 26"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/27.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 27"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/28.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 28"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/29.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 29"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/30.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 30"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/31.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 31"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/32.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 32"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/33.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 33"
+          />
+        </Zoom>
+        <Zoom>
+          <Image
+            src="/photos/34.jpg"
+            width={250}
+            height={250}
+            objectFit="cover"
+            alt="Constructions Image 34"
+          />
+        </Zoom>
       </main>
       <Footer />
     </>
